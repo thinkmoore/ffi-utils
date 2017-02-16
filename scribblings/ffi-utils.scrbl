@@ -3,7 +3,7 @@
                     ffi-utils/errno]]
 
 @title{ffi-utils}
-@author{sdmoore}
+@author{Scott Moore}
 
 Utilities for accessing C code using Racket's FFI.
 
