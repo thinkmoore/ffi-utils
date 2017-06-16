@@ -27,6 +27,7 @@
                          (parse-errno "bits/errno.h")
                          (parse-errno "linux/errno.h")
                          (parse-errno "asm/errno.h")
+                         (parse-errno "asm-generic/errno-base.h")
                          (parse-errno "asm-generic/errno.h")
                          (parse-errno "errno.h")))
   (for/fold ([syms empty]
